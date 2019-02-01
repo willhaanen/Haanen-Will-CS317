@@ -1,0 +1,9 @@
+Will Haanen
+
+Approximating Pi using Simulations in C++
+
+2/1/2019
+
+Doctor Heroux
+
+In my program I was able to reliably compute Pi with 85,000 throws per game. In a series of 50 games at 85,000 throws per game I was able to Approximate Pi to three spaces with a standard deviation of 0.0052.
